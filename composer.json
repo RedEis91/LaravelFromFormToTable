@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/event-dispatcher": "^4.0",
+        "symfony/dependency-injection": "^4.0",
+        "symfony/lock": "^4.0",
+        "laravel/installer": "^2.0"
+    }
+}
